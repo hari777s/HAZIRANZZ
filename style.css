@@ -5,6 +5,7 @@
   height: 100vh;
   background: url("./load.gif") center no-repeat;
   background-size: cover;
+  z-index: 999;
 }
 #mainNav {
   min-height: 70px;
